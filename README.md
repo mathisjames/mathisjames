@@ -8,3 +8,7 @@ JavaScript, Java, HTML, NodeJS, Python, Go, C#, Perl, PHP, 6502 Assembly Languag
 ## :page_facing_up: Bio
 Infrastructure as code!
 Many platforms
+
+## :writing_hand: Github Stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mathisjames)](https://git.io/streak-stats)
