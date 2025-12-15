@@ -12,4 +12,5 @@ Many platforms
 ## :writing_hand: Github Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mathisjames&theme=nord_bright) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mathisjames&theme=nord_bright) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mathisjames&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mathisjames&theme=nord_bright) 
